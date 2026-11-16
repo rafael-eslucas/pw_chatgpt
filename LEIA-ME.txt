@@ -1,0 +1,10 @@
+PACOTE DE MÍDIAS — CONEXÃO TEA
+
+Conteúdo:
+- imagens/: imagens ilustrativas e logo para usar no site.
+- videos/: coloque aqui conscientizacao.mp4.
+- audio/: coloque aqui mensagem.mp3.
+
+Importante: as imagens foram geradas como ilustrações para este projeto.
+Os arquivos de vídeo e áudio não estão incluídos; os arquivos LEIA-ME explicam onde colocá-los.
+Use materiais respeitosos e confiáveis, e confirme as permissões de uso.
