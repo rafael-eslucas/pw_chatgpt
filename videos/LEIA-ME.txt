@@ -1,3 +1,0 @@
-Coloque nesta pasta um vídeo educativo sobre o TEA em formato MP4.
-Nome esperado pelo HTML: conscientizacao.mp4
-O arquivo de vídeo real não foi incluído, pois deve ser um vídeo escolhido por você.

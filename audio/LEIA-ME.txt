@@ -1,3 +1,0 @@
-Coloque nesta pasta um áudio de conscientização em formato MP3.
-Nome esperado pelo HTML: mensagem.mp3
-O arquivo de áudio real não foi incluído, pois deve ser uma gravação ou áudio escolhido por você.
